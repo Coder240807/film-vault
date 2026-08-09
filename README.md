@@ -45,6 +45,7 @@ Create a `.env` file in the root directory of your project and add your TMDB API
 ```env
 VITE_TMDB_API_KEY=your_tmdb_api_key_here
 
+
 1. Clone the repository
 git clone [https://github.com/Coder240807/film-vault.git](https://github.com/Coder240807/film-vault.git)
 cd film-vault
@@ -57,8 +58,8 @@ npm run dev
 
 Open http://localhost:5173 in your browser to view the application.
 
-## 🔗 Repository Link
+🔗 Repository Link
 GitHub Repository: https://github.com/Coder240807/film-vault
 
-### Live Application
-https://film-vault-o3f7luoq0-alphas-projects-fce1fc7d.vercel.app/
+🌐 Live Application
+Live Demo: https://film-vault-o3f7luoq0-alphas-projects-fce1fc7d.vercel.app/
